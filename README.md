@@ -12,16 +12,16 @@ The basic steps of this project can be summarized as follows :
 
 ### About the Files in this Project
 
-1. data - Contains four sub-folders
+1. **data** - Contains four sub-folders
    - frames : folder containing the extracted frames from input video
    - input : folder containing the input videos
    - output : contains the enhanced frames
    - output_videos : contains the final stitched output videos
-2. weights - Folder containing .hdf5 files for different ISR Model weights
-3. Comparision.mp4 - Video showing the quality comparision between original and enhanced video
-4. VideoCreate.ipynb - Jupyter Notebook for stitching enhanced frames together and saving the output video
-5. VideoExtract.ipynb - Jupyter Notebook for extracting the frames from input video
-6. enhance.ipynb - Jupyter Notebook that enhances extracted frames 
+2. **weights** - Folder containing .hdf5 files for different ISR Model weights
+3. **Comparision.mp4** - Video showing the quality comparision between original and enhanced video
+4. **VideoCreate.ipynb** - Jupyter Notebook for stitching enhanced frames together and saving the output video
+5. **VideoExtract.ipynb** - Jupyter Notebook for extracting the frames from input video
+6. **enhance.ipynb** - Jupyter Notebook that enhances extracted frames 
 
 ### Results
 
@@ -36,7 +36,7 @@ Given that a better and faster method is developed, such a technique can be used
 such as Youtube. This would enable us to view the video content at a better resolution without the added cost of bandwidth. The only delay
 factor to be accounted for could be the processing time of enhancing each frame.
 
-*Citations* 
+### *Citations* 
 
 ```
 @misc{cardinale2018isr,
