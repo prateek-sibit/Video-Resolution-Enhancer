@@ -1,0 +1,296 @@
+2019-03-29 07:06:08,296 - ISR.predict.predictor - INFO - Creating output directory:
+./data/output/test1
+2019-03-29 07:06:08,411 - ISR.predict.predictor - INFO - Loaded weights from 
+ > weights/rdn-C6-D20-G64-G064-x2_enhanced-e219.hdf5
+2019-03-29 07:06:24,106 - ISR.predict.predictor - INFO - Results in:
+ > ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219
+2019-03-29 07:06:24,239 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame5.jpg
+2019-03-29 07:08:41,173 - ISR.predict.predictor - INFO - Elapsed time: 136.92981553077698s
+2019-03-29 07:08:41,178 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame5.jpg
+2019-03-29 07:08:41,460 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame46.jpg
+2019-03-29 07:10:34,392 - ISR.predict.predictor - INFO - Elapsed time: 112.93025279045105s
+2019-03-29 07:10:34,394 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame46.jpg
+2019-03-29 07:10:34,690 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame50.jpg
+2019-03-29 07:12:29,498 - ISR.predict.predictor - INFO - Elapsed time: 114.8052020072937s
+2019-03-29 07:12:29,501 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame50.jpg
+2019-03-29 07:12:30,004 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame40.jpg
+2019-03-29 07:14:21,562 - ISR.predict.predictor - INFO - Elapsed time: 111.55393385887146s
+2019-03-29 07:14:21,567 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame40.jpg
+2019-03-29 07:14:21,818 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame51.jpg
+2019-03-29 07:16:38,550 - ISR.predict.predictor - INFO - Elapsed time: 136.72900199890137s
+2019-03-29 07:16:38,552 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame51.jpg
+2019-03-29 07:16:38,843 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame37.jpg
+2019-03-29 07:19:00,981 - ISR.predict.predictor - INFO - Elapsed time: 142.1347427368164s
+2019-03-29 07:19:00,983 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame37.jpg
+2019-03-29 07:19:01,287 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame12.jpg
+2019-03-29 07:21:43,900 - ISR.predict.predictor - INFO - Elapsed time: 162.6088421344757s
+2019-03-29 07:21:44,033 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame12.jpg
+2019-03-29 07:21:44,528 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame38.jpg
+2019-03-29 07:24:25,135 - ISR.predict.predictor - INFO - Elapsed time: 160.59122681617737s
+2019-03-29 07:24:25,165 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame38.jpg
+2019-03-29 07:24:25,597 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame26.jpg
+2019-03-29 07:27:06,232 - ISR.predict.predictor - INFO - Elapsed time: 160.62356114387512s
+2019-03-29 07:27:06,270 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame26.jpg
+2019-03-29 07:27:06,651 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame16.jpg
+2019-03-29 07:29:43,183 - ISR.predict.predictor - INFO - Elapsed time: 156.52933740615845s
+2019-03-29 07:29:43,227 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame16.jpg
+2019-03-29 07:29:43,638 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame29.jpg
+2019-03-29 07:35:57,939 - ISR.predict.predictor - INFO - Loaded weights from 
+ > weights/rdn-C6-D20-G64-G064-x2_enhanced-e219.hdf5
+2019-03-29 07:36:18,647 - ISR.predict.predictor - INFO - Results in:
+ > ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219
+2019-03-29 07:36:18,856 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame5.jpg
+2019-03-29 07:37:04,241 - ISR.predict.predictor - INFO - Elapsed time: 45.37902569770813s
+2019-03-29 07:37:04,245 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame5.jpg
+2019-03-29 07:37:04,488 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame46.jpg
+2019-03-29 07:37:48,328 - ISR.predict.predictor - INFO - Elapsed time: 43.8381884098053s
+2019-03-29 07:37:48,333 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame46.jpg
+2019-03-29 07:37:48,568 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame50.jpg
+2019-03-29 07:38:43,768 - ISR.predict.predictor - INFO - Elapsed time: 55.196433782577515s
+2019-03-29 07:38:43,774 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame50.jpg
+2019-03-29 07:38:44,015 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame40.jpg
+2019-03-29 07:39:33,842 - ISR.predict.predictor - INFO - Elapsed time: 49.82514214515686s
+2019-03-29 07:39:33,854 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame40.jpg
+2019-03-29 07:39:34,109 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame51.jpg
+2019-03-29 07:40:19,772 - ISR.predict.predictor - INFO - Elapsed time: 45.66136121749878s
+2019-03-29 07:40:19,779 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame51.jpg
+2019-03-29 07:40:20,006 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame37.jpg
+2019-03-29 07:41:05,453 - ISR.predict.predictor - INFO - Elapsed time: 45.441328048706055s
+2019-03-29 07:41:05,457 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame37.jpg
+2019-03-29 07:41:05,684 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame12.jpg
+2019-03-29 07:41:54,261 - ISR.predict.predictor - INFO - Elapsed time: 48.574981451034546s
+2019-03-29 07:41:54,268 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame12.jpg
+2019-03-29 07:41:54,510 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame38.jpg
+2019-03-29 07:42:43,069 - ISR.predict.predictor - INFO - Elapsed time: 48.55549478530884s
+2019-03-29 07:42:43,079 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame38.jpg
+2019-03-29 07:42:43,365 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame26.jpg
+2019-03-29 07:43:33,600 - ISR.predict.predictor - INFO - Elapsed time: 50.23231220245361s
+2019-03-29 07:43:33,607 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame26.jpg
+2019-03-29 07:43:33,894 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame16.jpg
+2019-03-29 07:44:30,630 - ISR.predict.predictor - INFO - Elapsed time: 56.724342823028564s
+2019-03-29 07:44:30,635 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame16.jpg
+2019-03-29 07:44:30,896 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame29.jpg
+2019-03-29 07:45:19,917 - ISR.predict.predictor - INFO - Elapsed time: 49.015910625457764s
+2019-03-29 07:45:19,926 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame29.jpg
+2019-03-29 07:45:20,177 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame4.jpg
+2019-03-29 07:46:12,077 - ISR.predict.predictor - INFO - Elapsed time: 51.89892029762268s
+2019-03-29 07:46:12,081 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame4.jpg
+2019-03-29 07:46:12,333 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame3.jpg
+2019-03-29 07:47:04,542 - ISR.predict.predictor - INFO - Elapsed time: 52.20492243766785s
+2019-03-29 07:47:04,547 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame3.jpg
+2019-03-29 07:47:04,922 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame58.jpg
+2019-03-29 07:47:57,847 - ISR.predict.predictor - INFO - Elapsed time: 52.92206645011902s
+2019-03-29 07:47:57,853 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame58.jpg
+2019-03-29 07:47:58,088 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame57.jpg
+2019-03-29 07:48:50,694 - ISR.predict.predictor - INFO - Elapsed time: 52.60484337806702s
+2019-03-29 07:48:50,699 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame57.jpg
+2019-03-29 07:48:50,936 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame25.jpg
+2019-03-29 07:49:41,232 - ISR.predict.predictor - INFO - Elapsed time: 50.29438614845276s
+2019-03-29 07:49:41,244 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame25.jpg
+2019-03-29 07:49:41,494 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame47.jpg
+2019-03-29 07:50:32,378 - ISR.predict.predictor - INFO - Elapsed time: 50.87407994270325s
+2019-03-29 07:50:32,388 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame47.jpg
+2019-03-29 07:50:32,736 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame54.jpg
+2019-03-29 07:51:23,449 - ISR.predict.predictor - INFO - Elapsed time: 50.70384073257446s
+2019-03-29 07:51:23,451 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame54.jpg
+2019-03-29 07:51:23,670 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame39.jpg
+2019-03-29 07:52:14,544 - ISR.predict.predictor - INFO - Elapsed time: 50.868828535079956s
+2019-03-29 07:52:14,552 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame39.jpg
+2019-03-29 07:52:14,781 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame19.jpg
+2019-03-29 07:53:05,481 - ISR.predict.predictor - INFO - Elapsed time: 50.69702076911926s
+2019-03-29 07:53:05,484 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame19.jpg
+2019-03-29 07:53:05,718 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame6.jpg
+2019-03-29 07:53:49,745 - ISR.predict.predictor - INFO - Elapsed time: 44.02433729171753s
+2019-03-29 07:53:49,747 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame6.jpg
+2019-03-29 07:53:50,040 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame60.jpg
+2019-03-29 07:54:44,997 - ISR.predict.predictor - INFO - Elapsed time: 54.95524048805237s
+2019-03-29 07:54:45,000 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame60.jpg
+2019-03-29 07:54:45,233 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame22.jpg
+2019-03-29 07:55:39,225 - ISR.predict.predictor - INFO - Elapsed time: 53.989342212677s
+2019-03-29 07:55:39,230 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame22.jpg
+2019-03-29 07:55:39,519 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame33.jpg
+2019-03-29 07:56:28,929 - ISR.predict.predictor - INFO - Elapsed time: 49.40765404701233s
+2019-03-29 07:56:28,935 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame33.jpg
+2019-03-29 07:56:29,175 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame55.jpg
+2019-03-29 07:57:22,818 - ISR.predict.predictor - INFO - Elapsed time: 53.64148736000061s
+2019-03-29 07:57:22,829 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame55.jpg
+2019-03-29 07:57:23,133 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame7.jpg
+2019-03-29 07:58:16,448 - ISR.predict.predictor - INFO - Elapsed time: 53.313273191452026s
+2019-03-29 07:58:16,451 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame7.jpg
+2019-03-29 07:58:16,689 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame28.jpg
+2019-03-29 07:59:10,466 - ISR.predict.predictor - INFO - Elapsed time: 53.77276945114136s
+2019-03-29 07:59:10,478 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame28.jpg
+2019-03-29 07:59:10,777 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame10.jpg
+2019-03-29 08:00:04,526 - ISR.predict.predictor - INFO - Elapsed time: 53.7467041015625s
+2019-03-29 08:00:04,528 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame10.jpg
+2019-03-29 08:00:04,767 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame59.jpg
+2019-03-29 08:00:49,465 - ISR.predict.predictor - INFO - Elapsed time: 44.69371032714844s
+2019-03-29 08:00:49,473 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame59.jpg
+2019-03-29 08:00:49,696 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame14.jpg
+2019-03-29 08:01:33,084 - ISR.predict.predictor - INFO - Elapsed time: 43.38582921028137s
+2019-03-29 08:01:33,093 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame14.jpg
+2019-03-29 08:01:33,310 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame27.jpg
+2019-03-29 08:02:25,731 - ISR.predict.predictor - INFO - Elapsed time: 52.41959261894226s
+2019-03-29 08:02:25,744 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame27.jpg
+2019-03-29 08:02:25,963 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame48.jpg
+2019-03-29 08:03:17,108 - ISR.predict.predictor - INFO - Elapsed time: 51.142834186553955s
+2019-03-29 08:03:17,113 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame48.jpg
+2019-03-29 08:03:17,327 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame52.jpg
+2019-03-29 08:04:08,456 - ISR.predict.predictor - INFO - Elapsed time: 51.12688970565796s
+2019-03-29 08:04:08,459 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame52.jpg
+2019-03-29 08:04:08,722 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame21.jpg
+2019-03-29 08:05:06,210 - ISR.predict.predictor - INFO - Elapsed time: 57.477561473846436s
+2019-03-29 08:05:06,214 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame21.jpg
+2019-03-29 08:05:06,530 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame8.jpg
+2019-03-29 08:05:57,469 - ISR.predict.predictor - INFO - Elapsed time: 50.93635559082031s
+2019-03-29 08:05:57,477 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame8.jpg
+2019-03-29 08:05:57,805 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame18.jpg
+2019-03-29 08:06:48,645 - ISR.predict.predictor - INFO - Elapsed time: 50.838348388671875s
+2019-03-29 08:06:48,660 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame18.jpg
+2019-03-29 08:06:48,921 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame56.jpg
+2019-03-29 08:07:41,312 - ISR.predict.predictor - INFO - Elapsed time: 52.386951208114624s
+2019-03-29 08:07:41,316 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame56.jpg
+2019-03-29 08:07:41,527 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame45.jpg
+2019-03-29 08:08:23,420 - ISR.predict.predictor - INFO - Elapsed time: 41.888124227523804s
+2019-03-29 08:08:23,423 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame45.jpg
+2019-03-29 08:08:23,715 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame31.jpg
+2019-03-29 08:09:08,603 - ISR.predict.predictor - INFO - Elapsed time: 44.886345624923706s
+2019-03-29 08:09:08,607 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame31.jpg
+2019-03-29 08:09:08,921 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame2.jpg
+2019-03-29 08:09:47,506 - ISR.predict.predictor - INFO - Elapsed time: 38.58244729042053s
+2019-03-29 08:09:47,515 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame2.jpg
+2019-03-29 08:09:47,817 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame11.jpg
+2019-03-29 08:10:26,284 - ISR.predict.predictor - INFO - Elapsed time: 38.46568250656128s
+2019-03-29 08:10:26,288 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame11.jpg
+2019-03-29 08:10:26,527 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame34.jpg
+2019-03-29 08:11:06,128 - ISR.predict.predictor - INFO - Elapsed time: 39.59180951118469s
+2019-03-29 08:11:06,132 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame34.jpg
+2019-03-29 08:11:06,409 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame20.jpg
+2019-03-29 08:11:47,479 - ISR.predict.predictor - INFO - Elapsed time: 41.06855821609497s
+2019-03-29 08:11:47,482 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame20.jpg
+2019-03-29 08:11:47,747 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame41.jpg
+2019-03-29 08:12:28,865 - ISR.predict.predictor - INFO - Elapsed time: 41.11613583564758s
+2019-03-29 08:12:28,869 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame41.jpg
+2019-03-29 08:12:29,134 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame15.jpg
+2019-03-29 08:13:15,424 - ISR.predict.predictor - INFO - Elapsed time: 46.28437089920044s
+2019-03-29 08:13:15,426 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame15.jpg
+2019-03-29 08:13:15,678 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame35.jpg
+2019-03-29 08:14:08,121 - ISR.predict.predictor - INFO - Elapsed time: 52.4411940574646s
+2019-03-29 08:14:08,132 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame35.jpg
+2019-03-29 08:14:08,459 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame32.jpg
+2019-03-29 08:15:02,021 - ISR.predict.predictor - INFO - Elapsed time: 53.557358741760254s
+2019-03-29 08:15:02,040 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame32.jpg
+2019-03-29 08:15:02,255 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame23.jpg
+2019-03-29 08:15:54,056 - ISR.predict.predictor - INFO - Elapsed time: 51.79733061790466s
+2019-03-29 08:15:54,062 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame23.jpg
+2019-03-29 08:15:54,300 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame43.jpg
+2019-03-29 08:16:46,178 - ISR.predict.predictor - INFO - Elapsed time: 51.875489234924316s
+2019-03-29 08:16:46,186 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame43.jpg
+2019-03-29 08:16:46,482 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame17.jpg
+2019-03-29 08:17:37,227 - ISR.predict.predictor - INFO - Elapsed time: 50.73676609992981s
+2019-03-29 08:17:37,236 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame17.jpg
+2019-03-29 08:17:37,460 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame9.jpg
+2019-03-29 08:18:28,282 - ISR.predict.predictor - INFO - Elapsed time: 50.81851315498352s
+2019-03-29 08:18:28,288 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame9.jpg
+2019-03-29 08:18:28,573 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame13.jpg
+2019-03-29 08:19:08,370 - ISR.predict.predictor - INFO - Elapsed time: 39.79508829116821s
+2019-03-29 08:19:08,373 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame13.jpg
+2019-03-29 08:19:08,618 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame36.jpg
+2019-03-29 08:19:48,271 - ISR.predict.predictor - INFO - Elapsed time: 39.65234994888306s
+2019-03-29 08:19:48,278 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame36.jpg
+2019-03-29 08:19:48,536 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame53.jpg
+2019-03-29 08:20:27,152 - ISR.predict.predictor - INFO - Elapsed time: 38.606783866882324s
+2019-03-29 08:20:27,154 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame53.jpg
+2019-03-29 08:20:27,361 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame42.jpg
+2019-03-29 08:21:08,465 - ISR.predict.predictor - INFO - Elapsed time: 41.100003480911255s
+2019-03-29 08:21:08,469 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame42.jpg
+2019-03-29 08:21:08,686 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame24.jpg
+2019-03-29 08:21:50,444 - ISR.predict.predictor - INFO - Elapsed time: 41.75619387626648s
+2019-03-29 08:21:50,447 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame24.jpg
+2019-03-29 08:21:50,663 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame44.jpg
+2019-03-29 08:22:32,599 - ISR.predict.predictor - INFO - Elapsed time: 41.934078216552734s
+2019-03-29 08:22:32,603 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame44.jpg
+2019-03-29 08:22:32,867 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame49.jpg
+2019-03-29 08:23:14,499 - ISR.predict.predictor - INFO - Elapsed time: 41.630929946899414s
+2019-03-29 08:23:14,503 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame49.jpg
+2019-03-29 08:23:14,752 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame0.jpg
+2019-03-29 08:23:55,912 - ISR.predict.predictor - INFO - Elapsed time: 41.15576481819153s
+2019-03-29 08:23:55,916 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame0.jpg
+2019-03-29 08:23:56,112 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame1.jpg
+2019-03-29 08:24:42,723 - ISR.predict.predictor - INFO - Elapsed time: 46.60789203643799s
+2019-03-29 08:24:42,726 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame1.jpg
+2019-03-29 08:24:42,968 - ISR.predict.predictor - INFO - Processing file
+ > data/frames/test1/frame30.jpg
+2019-03-29 08:25:33,014 - ISR.predict.predictor - INFO - Elapsed time: 50.04390621185303s
+2019-03-29 08:25:33,016 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/frame30.jpg
