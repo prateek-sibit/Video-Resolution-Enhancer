@@ -36,7 +36,7 @@ Given that a better and faster method is developed, such a technique can be used
 such as Youtube. This would enable us to view the video content at a better resolution without the added cost of bandwidth. The only delay
 factor to be accounted for could be the processing time of enhancing each frame.
 
-## *Citations* 
+## Citations
 
 ```
 @misc{cardinale2018isr,
