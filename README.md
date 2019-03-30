@@ -1,6 +1,9 @@
 # Video-Resolution-Enhancer
 ## Using Super Resolution to Enhance the resolution of a Video frame-by-frame
 
+![Comparison](https://user-images.githubusercontent.com/28367168/55273188-133d7680-52ee-11e9-88ce-b73e8a9e1ab1.jpg)
+*A snapshot of the input and output videos to compare the difference in resolution*
+
 The goal of this project was to explore how video resolution can be improved using super resolution. 
 This project Keras implementations of different Residual Dense Networks for Single Image Super-Resolution (ISR) referenced through an already existing
 github repository, Read the full documentation at: https://idealo.github.io/image-super-resolution/.
