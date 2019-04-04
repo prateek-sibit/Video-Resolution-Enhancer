@@ -5,7 +5,7 @@
 ***A snapshot of the input(left) and output(right) videos to compare the difference in resolution***
 
 The goal of this project was to explore how video resolution can be improved using super resolution. 
-This project Keras implementations of different Residual Dense Networks for Single Image Super-Resolution (ISR) referenced through an already existing
+This project uses Keras implementations of different Residual Dense Networks for Single Image Super-Resolution (ISR) referenced through an already existing
 github repository, Read the full documentation at: https://idealo.github.io/image-super-resolution/.
 
 The basic steps of this project can be summarized as follows : 
